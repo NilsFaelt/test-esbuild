@@ -5,7 +5,6 @@ import React from "react";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 const App = () => {
-  // console.log("hej");
   const [count, setCount] = useState(0);
   return (
     <div>
